@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YourApp</string>
+    <string name="push_button_label">Push Me!</string>
+    <string name="push_button_pushed">You have pushed me %1$d time(s)!</string>
+</resources>
